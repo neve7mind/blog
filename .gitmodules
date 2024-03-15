@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:neve7mind/ivmurashov.github.io.git
+	branch = main
